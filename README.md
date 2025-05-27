@@ -4,6 +4,10 @@
 🔭 I’m currently working on an e-commerce website and two marketing sites<br>👯 I’m looking to collaborate on app development and intresting projects<br>🤝 I’m looking for help with Android development<br>🌱 I’m currently learning software testing principles<br>💬 Ask me about gaming, coding, technologies, collaboration and work
 
 
+# ⚒ Projects and Works:
+
+- [GameHub Connect](https://gamehub99.netlify.app/)
+  
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/panashe.gonese.113990) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/purplecre) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/panashegonese1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pgonese6@gmail.com) 
 
