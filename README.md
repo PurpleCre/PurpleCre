@@ -7,10 +7,6 @@
 # ⚒ Projects and Works:
 
 - [GameHub Connect](https://gamehub99.netlify.app/)
-  
-# ⚒ Projects and Works:
-
-- [GameHub Connect](https://gamehub99.netlify.app/)# ⚒ Projects and Works:
 
 
 ## 🌐 Socials:
